@@ -1,0 +1,12 @@
+{
+  "name": "tutorial_fcc_mern_productstore",
+  "version": "1.0.0",
+  "description": "Tutorial_FCC_MERN_ProductStore\r YT: https://www.youtube.com/watch?v=O3BUHwfHf84",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
